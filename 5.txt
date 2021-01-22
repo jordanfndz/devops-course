@@ -4,5 +4,5 @@ test file
 le fichier à été modifié 
 =======
 test file 
-modified
->>>>>>> e2e36b4f466efdabe68c62c32c08f511b49d2227
+
+
